@@ -1,10 +1,10 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "2024 충주상고 방과후 리액트 프로그래밍"
+author: "SEO JEONG HUN"
+description: "Made with <b style=\"color: #f45;\">Contrast - Jekyll</b>"
 permalink: /:title/
-lang: "en"
+lang: "ko"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%Y %B %d "
 
 # Layout
 
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:jeonghun.seo@outlook.kr"}
+  - {title: Github, icon: github, url: "https://github.com/jeonghun-seo"}
+  
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
